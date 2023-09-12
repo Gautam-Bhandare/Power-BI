@@ -1,4 +1,4 @@
-# Assignments
+# Power BI
 Linkedin Assignment -
 1)	Profit Summary 
 2)	Total number of connection 
